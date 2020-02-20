@@ -1,13 +1,13 @@
-# mon nouveau site web
+# Mon nouveau site web
 
 un projet pour apprendre à utiliser GIT.
 
 
-## historique 
+## Historique 
 
 * v1.0 début du projet, ajout du fichier index.html
 
-## crédits 
+## Crédits 
 
 * Webforce3
 * NumericALL
